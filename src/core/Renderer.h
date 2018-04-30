@@ -12,7 +12,8 @@ using namespace vmath;
 enum Primitive
 {
     PRIMITIVE_TRIANGLES = GL_TRIANGLES,
-    PRIMITIVE_POINTS = GL_POINTS
+    PRIMITIVE_POINTS = GL_POINTS,
+    PRIMITIVE_LINES = GL_LINES
 };
 
 enum ComponentType
